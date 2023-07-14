@@ -1,0 +1,16 @@
+PODS:
+  - TunnelKit (0.0.1)
+
+DEPENDENCIES:
+  - TunnelKit (from `../`)
+
+EXTERNAL SOURCES:
+  TunnelKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TunnelKit: 6f2c0b2ddd41f496aa77234c2fa8b02add3b424c
+
+PODFILE CHECKSUM: 62a56c99be53623df5387277ae522089be9d4da0
+
+COCOAPODS: 1.11.3

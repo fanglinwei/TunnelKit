@@ -1,0 +1,35 @@
+{
+  "name": "TunnelKit",
+  "version": "0.0.1",
+  "summary": "A short description of TunnelKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://git.zuoyebang.cc/inno_newhw/iotunion_iOS/TunnelKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fun": "lw_fun@163.com"
+  },
+  "source": {
+    "git": "git@git.zuoyebang.cc:inno_newhw/iotunion_iOS/TunnelKit.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "15.0"
+  },
+  "public_header_files": [
+    "TunnelKit/Classes/**/*.h",
+    "TunnelKit/Framework/*.framework/Headers/*.h"
+  ],
+  "module_name": "TunnelKit",
+  "source_files": [
+    "TunnelKit/Classes/**/*.{h,swift}",
+    "TunnelKit/Framework/*.framework/Headers/*.h"
+  ],
+  "vendored_frameworks": "TunnelKit/Framework/*.framework",
+  "pod_target_xcconfig": {
+    "OTHER_LDFLAGS": "-all_load",
+    "VALID_ARCHS": "x86_64 armv7 arm64"
+  }
+}
