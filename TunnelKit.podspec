@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fun' => 'lw_fun@163.com' }
-  s.source           = { :git => 'https://github.com/fanglinwei/TunnelKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:fanglinwei/TunnelKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   s.platform               = :ios, '15.0'
   s.ios.deployment_target  = '15.0'
