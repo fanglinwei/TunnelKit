@@ -1,9 +1,9 @@
-# TunnelKit
+# TunnelSDK
 
-[![CI Status](https://img.shields.io/travis/fun/TunnelKit.svg?style=flat)](https://travis-ci.org/fun/TunnelKit)
-[![Version](https://img.shields.io/cocoapods/v/TunnelKit.svg?style=flat)](https://cocoapods.org/pods/TunnelKit)
-[![License](https://img.shields.io/cocoapods/l/TunnelKit.svg?style=flat)](https://cocoapods.org/pods/TunnelKit)
-[![Platform](https://img.shields.io/cocoapods/p/TunnelKit.svg?style=flat)](https://cocoapods.org/pods/TunnelKit)
+[![CI Status](https://img.shields.io/travis/fun/TunnelSDK.svg?style=flat)](https://travis-ci.org/fun/TunnelSDK)
+[![Version](https://img.shields.io/cocoapods/v/TunnelSDK.svg?style=flat)](https://cocoapods.org/pods/TunnelSDK)
+[![License](https://img.shields.io/cocoapods/l/TunnelSDK.svg?style=flat)](https://cocoapods.org/pods/TunnelSDK)
+[![Platform](https://img.shields.io/cocoapods/p/TunnelSDK.svg?style=flat)](https://cocoapods.org/pods/TunnelSDK)
 
 ## Example
 
@@ -13,13 +13,13 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-TunnelKit is available through [CocoaPods](https://cocoapods.org). To install
+TunnelSDK is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'TunnelKit'
+pod 'TunnelSDK'
 ```
 
 ## License
 
-TunnelKitis available under the MIT license. See the LICENSE file for more info.
+TunnelSDKis available under the MIT license. See the LICENSE file for more info.

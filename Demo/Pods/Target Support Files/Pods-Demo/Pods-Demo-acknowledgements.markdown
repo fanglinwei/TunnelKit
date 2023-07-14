@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## TunnelKit
+## TunnelSDK
 
 Copyright (c) 2022 fun <lw_fun@163.com>
 

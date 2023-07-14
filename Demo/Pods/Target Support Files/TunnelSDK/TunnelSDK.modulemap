@@ -1,0 +1,6 @@
+framework module TunnelSDK {
+  umbrella header "TunnelSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
